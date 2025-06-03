@@ -1,4 +1,4 @@
-=>  Template Name    : Investa - Investment Website Template
+  =>  Template Name    : Investa - Investment Website Template
 
   =>  Template Link    : https://htmlcodex.com/investment-website-template
 
