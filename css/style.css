@@ -94,8 +94,8 @@
 }
 
 .btn.btn-dark {
-  background: var(--bs-dark) !important;
-  color: var(--bs-white) !important;
+  background: #fec7a2 !important;
+  color: #554a9f !important;
   font-family: "Roboto", sans-serif;
   border: none;
   font-weight: 400;
@@ -174,7 +174,7 @@
 /*** Topbar Start ***/
 .topbar {
   padding: 2px 10px 2px 20px;
-  background: var(--bs-dark) !important;
+  background: #cc86de !important;
 }
 
 @media (max-width: 768px) {
@@ -611,7 +611,7 @@
   left: 0;
   border-bottom-left-radius: 10px;
   border-bottom-right-radius: 10px;
-  background: var(--bs-dark);
+  background:  #554a9f;
   transition: 0.5s;
   z-index: 1;
 }
@@ -996,7 +996,7 @@
 
 /*** Footer Start ***/
 .footer {
-  background: var(--bs-dark);
+  background: #cc86de;
 }
 .footer .footer-item a {
   line-height: 35px;
@@ -1033,6 +1033,6 @@
 /*** copyright Start ***/
 .copyright {
   border-top: 1px solid rgba(255, 255, 255, 0.08);
-  background: var(--bs-dark) !important;
+  background: #554a9f !important;
 }
 /*** copyright end ***/
